@@ -124,11 +124,11 @@ footer .copyright{
     }
     
     button{
-        
-        padding: 16px 20px;
+        width: 20%;
         font-size: 13px;
-        
-        
     }
+    input{
+        width: 70%
+    };
     
 }
